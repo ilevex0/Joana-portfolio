@@ -26,4 +26,9 @@
 > * Visual Studio Code
 > * Figma.com (Design and Prototyping Tool)
 
+# How to Open the Website in Your Browser:
+1. Download and extract the archive.
+2. Open the *Index.html* file.
+
+
 [Go to the next project.](https://github.com/ilevex0/alura-plus)
