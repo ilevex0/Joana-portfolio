@@ -29,8 +29,8 @@
 - Figma.com (Design and Prototyping Tool)
 
 # How to Open the Website in Your Browser:
-1. Download and extract the archive.
-2. Open the *Index.html* file.
+- **Option 1:** Simply open it at: [https://ilevex0.github.io/Joana-portfolio/](https://ilevex0.github.io/Joana-portfolio/)
+- **Option 2:** Download and extract the compressed file. Then, open the *Index.html* file.
 
 
 [Go to the next project.](https://github.com/ilevex0/alura-plus)
